@@ -37,7 +37,7 @@ misalnya **git commit -m "Menambahkan fitur baru pada halaman utama"**, untuk me
 4. Push ke Repositori Jarak Jauh
 
 Buka terminal atau Git Bash pada komputer Anda.
-Masuk ke direktori repositori dengan perintah 
+Masuk ke direktori repositori letsevent dengan perintah 
 
 `cd src`, `cd letsevent`
 
