@@ -39,7 +39,7 @@ misalnya **git commit -m "Menambahkan fitur baru pada halaman utama"**, untuk me
 Buka terminal atau Git Bash pada komputer Anda.
 Masuk ke direktori repositori dengan perintah 
 
-`cd [nama direktori]`.
+`cd src`, `cd letsevent`
 
 Ketikkan perintah 
 
