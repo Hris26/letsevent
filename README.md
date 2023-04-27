@@ -20,16 +20,14 @@ Buka file yang ingin Anda ubah menggunakan editor teks favorit Anda.
 Buat perubahan pada file.
 Simpan perubahan tersebut.
 Kembali ke terminal atau Git Bash.
-Ketikkan perintah 
+Ketikkan perintah untuk melihat perubahan apa saja yang terjadi.
 
 `git status`
 
-untuk melihat perubahan apa saja yang terjadi.
-Ketikkan perintah 
+Ketikkan perintah untuk menambahkan perubahan ke staging area.
 
 `git add *`
 
-untuk menambahkan perubahan ke staging area.
 Ketikkan perintah 
 
 `git commit -m "pesan commit Anda"`
