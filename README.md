@@ -10,7 +10,7 @@ Klik tombol "Fork" di sudut kanan atas halaman untuk menyalin repositori ke akun
 Buka terminal atau Git Bash pada komputer Anda.
 Ketikkan perintah 
 
-`git clone https://github.com/zhulkhoirr/lets-event`
+`git clone https://github.com/zhulkhoirr/letsevent`
 
 Tunggu hingga proses cloning selesai. Repositori akan tersalin ke komputer Anda.
 
